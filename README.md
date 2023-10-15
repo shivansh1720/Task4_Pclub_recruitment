@@ -1,4 +1,6 @@
-# Task4_Pclub_recruitment
+# Self_project_for learning INFOSEC
+
+### Natas And BurpeSuite
 It contains my progress for task4 under pclub_recruitment
 
 - First I started with overthewire tutorials 'bandit' and 'natas' to make myself used to LINUX commands and introduce myself to Infosec.
@@ -13,5 +15,8 @@ It contains my progress for task4 under pclub_recruitment
 - I also visited /token/verify page but it didn't helped me in any progress.
 ![alt text](https://i.ibb.co/ydrDGCg/2.png)
 - I also tried to get shell access from terminal but it was not helpful as I couldnot get ssh private key for the server
-
-#### I request you to consider my progress because I spent more than two days on it. Whether or not I was able to complete the task, still my knowledge about infosec incresed by folds from what it was earlier.
+  
+### Course on Cryptohack
+In this course I am learning cryptography through ctf's
+- First I learned modular arithmetic which is a must for RSA cryptography
+- Now, i am learning AES(Advanced Encryption Standard) which is a type of symmetric cryptography 
